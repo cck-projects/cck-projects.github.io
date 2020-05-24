@@ -87,7 +87,7 @@ to{
 #thirdword{
   opacity: 1;
   animation: namechange101 2s;
-  animation-delay: 2.6s;
+  animation-delay: 2.8s;
 }
 
 /*.word2:hover{
@@ -100,8 +100,8 @@ to{
   top: 200px;
   opacity: 0.0;
   position: relative;
-animation-delay: 0s;
   animation: identifier 2s;
+  animation-delay: 0.4s;
   animation-fill-mode: forwards
 }
 
@@ -110,7 +110,7 @@ animation-delay: 0s;
   opacity: 0.0;
   position: relative;
   animation: identifier 2s;
-  animation-delay: 0.2s;
+  animation-delay: 0.6s;
   animation-fill-mode: forwards
 }
 
@@ -119,7 +119,7 @@ animation-delay: 0s;
   opacity: 0.0;
   position: relative;
   animation: identifier 2s;
-  animation-delay: 0.4s;
+  animation-delay: 0.8s;
   animation-fill-mode: forwards
 }
 
@@ -128,7 +128,7 @@ animation-delay: 0s;
   opacity: 0.0;
   position: relative;
   animation: identifier 2s;
-  animation-delay: 0.6s;
+  animation-delay: 1s;
   animation-fill-mode: forwards
 }
 
